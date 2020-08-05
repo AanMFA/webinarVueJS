@@ -1,2 +1,2 @@
 # webinarVue
-Webinar VueJS HIMIT PENS
+Project Webinar VueJS HIMIT PENS
